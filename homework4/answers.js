@@ -3,7 +3,7 @@ function answer_1() {
 }
 
 function answer_2(){
-	document.getElementById("q2-answer").innerHTML = "<ul><li> javascript can change HTMl by accessing DOM. </li><li> javascript can add or remove existing elements and attributes</li></ul>";
+	document.getElementById("q2-answer").innerHTML = "<ul><li> javascript can change HTML by accessing DOM. </li><li> javascript can add or remove existing elements and attributes</li></ul>";
 }
 
 var x = document.getElementsByClassName("q34-answer");
